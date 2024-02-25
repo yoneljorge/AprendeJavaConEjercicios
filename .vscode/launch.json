@@ -1,0 +1,1116 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Ejemplo01",
+            "request": "launch",
+            "mainClass": "Test.Ejemplo01",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Buscador",
+            "request": "launch",
+            "mainClass": "Capitulo11.Buscador",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1",
+            "windows": {
+                "args": [
+                    "ajutate",
+                    "palabras.txt",
+                    "todos.txt",
+                    "primos.txt"
+                ]
+            }
+        },
+        {
+            "type": "java",
+            "name": "ConcatenarArchivos",
+            "request": "launch",
+            "mainClass": "Capitulo11.ConcatenarArchivos",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1",
+            "windows": {
+                "args": [
+                    "primos.txt",
+                    "palabras.txt",
+                    "noPrimo.txt"
+                ]
+            }
+        },
+        {
+            "type": "java",
+            "name": "OcurrenciasPalabra",
+            "request": "launch",
+            "mainClass": "Capitulo11.OcurrenciasPalabra",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1",
+            "windows": {
+                "args": [
+                    "palabras.txt",
+                    "ajutate"
+                ]
+            }
+        },
+        {
+            "type": "java",
+            "name": "QuitaComentarios",
+            "request": "launch",
+            "mainClass": "Capitulo11.E05.QuitaComentarios",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1",
+            "windows": {
+                "args": [
+                    "hola.java",
+                    "holav2.java"
+                ]
+            }
+        },
+        {
+            "type": "java",
+            "name": "OrdenarFichero",
+            "request": "launch",
+            "mainClass": "Capitulo11.E04.OrdenarFichero",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1",
+            "windows": {
+                "args": [
+                    "palabras.txt"
+                ]
+            }
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "S03Ejercicio04",
+            "request": "launch",
+            "mainClass": "Capitulo03.S03Ejercicio04",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "S03Ejercicio07",
+            "request": "launch",
+            "mainClass": "Capitulo03.S03Ejercicio07",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "S04Ejercicio05",
+            "request": "launch",
+            "mainClass": "Capitulo04.S04Ejercicio05",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "S04Ejercicio15",
+            "request": "launch",
+            "mainClass": "Capitulo04.S04Ejercicio15",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "S04Ejercicio16",
+            "request": "launch",
+            "mainClass": "Capitulo04.S04Ejercicio16",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "S04Ejercicio17",
+            "request": "launch",
+            "mainClass": "Capitulo04.S04Ejercicio17",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "S04Ejercicio18",
+            "request": "launch",
+            "mainClass": "Capitulo04.S04Ejercicio18",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "S04Ejercicio20Capicua",
+            "request": "launch",
+            "mainClass": "Capitulo04.S04Ejercicio20Capicua",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "S04Ejercicio22",
+            "request": "launch",
+            "mainClass": "Capitulo04.S04Ejercicio22",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "S04Ejercicio24",
+            "request": "launch",
+            "mainClass": "Capitulo04.S04Ejercicio24",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "S04Ejercicio25",
+            "request": "launch",
+            "mainClass": "Capitulo04.S04Ejercicio25",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "S04Ejercicio26",
+            "request": "launch",
+            "mainClass": "Capitulo04.S04Ejercicio26",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "S04Ejercicio27",
+            "request": "launch",
+            "mainClass": "Capitulo04.S04Ejercicio27",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "S04Ejercicio28PiedraPapelTijera",
+            "request": "launch",
+            "mainClass": "Capitulo04.S04Ejercicio28PiedraPapelTijera",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "S04Ejercicio29",
+            "request": "launch",
+            "mainClass": "Capitulo04.S04Ejercicio29",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio01",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio01",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio02",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio02",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio03",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio03",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio04",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio04",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio07",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio07",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio08",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio08",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio09",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio09",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio10",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio10",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio11",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio11",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio12",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio12",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio13",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio13",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio14",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio14",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio15",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio15",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio16",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio16",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio17",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio17",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio18",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio18",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio19",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio19",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio20Piramide",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio20Piramide",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio21",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio21",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio22",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio22",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio23",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio23",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio24",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio24",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio25",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio25",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio26",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio26",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio27",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio27",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio28",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio28",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio29",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio29",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio30CalcularHora",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio30CalcularHora",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio31",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio31",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio32",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio32",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio33",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio33",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio34",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio34",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio35",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio35",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio36",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio36",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio37",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio37",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio38RelojArena",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio38RelojArena",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio39Factorial",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio39Factorial",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio40RomboHueco",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio40RomboHueco",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio42Primo",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio42Primo",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio43",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio43",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio44",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio44",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio45",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio45",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio46",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio46",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio47",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio47",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio48",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio48",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio49",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio49",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio50",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio50",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio51",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio51",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio52",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio52",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio53",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio53",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio54",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio54",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio59ArbolitoNavidad",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio59ArbolitoNavidad",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio60CalcetinNavidad",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio60CalcetinNavidad",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio64",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio64",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio65",
+            "request": "launch",
+            "mainClass": "Capitulo05.Ejercicio65",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio01(1)",
+            "request": "launch",
+            "mainClass": "Capitulo06.Ejercicio01",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio02(1)",
+            "request": "launch",
+            "mainClass": "Capitulo06.Ejercicio02",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio04(1)",
+            "request": "launch",
+            "mainClass": "Capitulo06.Ejercicio04",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio06",
+            "request": "launch",
+            "mainClass": "Capitulo06.Ejercicio06",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio09(1)",
+            "request": "launch",
+            "mainClass": "Capitulo06.Ejercicio09",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio10(1)",
+            "request": "launch",
+            "mainClass": "Capitulo06.Ejercicio10",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio11(1)",
+            "request": "launch",
+            "mainClass": "Capitulo06.Ejercicio11",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio12(1)",
+            "request": "launch",
+            "mainClass": "Capitulo06.Ejercicio12",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio13(1)",
+            "request": "launch",
+            "mainClass": "Capitulo06.Ejercicio13",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio14(1)",
+            "request": "launch",
+            "mainClass": "Capitulo06.Ejercicio14",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio15(1)",
+            "request": "launch",
+            "mainClass": "Capitulo06.Ejercicio15",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio16(1)",
+            "request": "launch",
+            "mainClass": "Capitulo06.Ejercicio16",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio17(1)",
+            "request": "launch",
+            "mainClass": "Capitulo06.Ejercicio17",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio18(1)",
+            "request": "launch",
+            "mainClass": "Capitulo06.Ejercicio18",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio19(1)",
+            "request": "launch",
+            "mainClass": "Capitulo06.Ejercicio19",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio20Cubo",
+            "request": "launch",
+            "mainClass": "Capitulo06.Ejercicio20Cubo",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio21GeneraMonedas",
+            "request": "launch",
+            "mainClass": "Capitulo06.Ejercicio21GeneraMonedas",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio22Serpiente",
+            "request": "launch",
+            "mainClass": "Capitulo06.Ejercicio22Serpiente",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio23TirarDado",
+            "request": "launch",
+            "mainClass": "Capitulo06.Ejercicio23TirarDado",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio24(1)",
+            "request": "launch",
+            "mainClass": "Capitulo06.Ejercicio24",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio25(1)",
+            "request": "launch",
+            "mainClass": "Capitulo06.Ejercicio25",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio26(1)",
+            "request": "launch",
+            "mainClass": "Capitulo06.Ejercicio26",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio27PiedraPapelTijera",
+            "request": "launch",
+            "mainClass": "Capitulo06.Ejercicio27PiedraPapelTijera",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio28(1)",
+            "request": "launch",
+            "mainClass": "Capitulo06.Ejercicio28",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio08(1)",
+            "request": "launch",
+            "mainClass": "Capitulo0701.Ejercicio08",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio14(2)",
+            "request": "launch",
+            "mainClass": "Capitulo0701.Ejercicio14",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio15Restaurant",
+            "request": "launch",
+            "mainClass": "Capitulo0701.Ejercicio15Restaurant",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio17(2)",
+            "request": "launch",
+            "mainClass": "Capitulo0701.Ejercicio17",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio20",
+            "request": "launch",
+            "mainClass": "Capitulo0701.Ejercicio20",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio01(2)",
+            "request": "launch",
+            "mainClass": "Capitulo0702.Ejercicio01",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio07(1)",
+            "request": "launch",
+            "mainClass": "Capitulo0702.Ejercicio07",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio08MovimientoAlfil",
+            "request": "launch",
+            "mainClass": "Capitulo0702.Ejercicio08MovimientoAlfil",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio09(2)",
+            "request": "launch",
+            "mainClass": "Capitulo0702.Ejercicio09",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio11(2)",
+            "request": "launch",
+            "mainClass": "Capitulo0702.Ejercicio11",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio15(2)",
+            "request": "launch",
+            "mainClass": "Capitulo08.Ejercicio15",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio16(2)",
+            "request": "launch",
+            "mainClass": "Capitulo08.Ejercicio16",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio17(3)",
+            "request": "launch",
+            "mainClass": "Capitulo08.Ejercicio17",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Capitulo09.E02.Main",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "Capitulo09.E05.Main",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "Capitulo09.E06.Main",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Main(3)",
+            "request": "launch",
+            "mainClass": "Capitulo09.E07.Main",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Main(4)",
+            "request": "launch",
+            "mainClass": "Capitulo09.E08.Main",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Main(5)",
+            "request": "launch",
+            "mainClass": "Capitulo09.E10.Main",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Main(6)",
+            "request": "launch",
+            "mainClass": "Capitulo09.E11.Main",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Biblioteca",
+            "request": "launch",
+            "mainClass": "Capitulo09.E12.Biblioteca",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Main(7)",
+            "request": "launch",
+            "mainClass": "Capitulo09.E13.Main",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Main(8)",
+            "request": "launch",
+            "mainClass": "Capitulo09.E14.Main",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Main(9)",
+            "request": "launch",
+            "mainClass": "Capitulo09.E15.Main",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Main(10)",
+            "request": "launch",
+            "mainClass": "Capitulo09.E16.Main",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Main(11)",
+            "request": "launch",
+            "mainClass": "Capitulo09.E17.Main",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Main(12)",
+            "request": "launch",
+            "mainClass": "Capitulo09.E18.Main",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Main(13)",
+            "request": "launch",
+            "mainClass": "Capitulo10.E08.Main",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Main(14)",
+            "request": "launch",
+            "mainClass": "Capitulo10.E10.Main",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Main(15)",
+            "request": "launch",
+            "mainClass": "Capitulo10.E11.Main",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Main(16)",
+            "request": "launch",
+            "mainClass": "Capitulo10.E12.Main",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Main(17)",
+            "request": "launch",
+            "mainClass": "Capitulo10.E14.Main",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "SupermecadoEcologico",
+            "request": "launch",
+            "mainClass": "Capitulo10.E15.SupermecadoEcologico",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Capitales",
+            "request": "launch",
+            "mainClass": "Capitulo10.E16.Capitales",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Main(18)",
+            "request": "launch",
+            "mainClass": "Capitulo10.E17.Main",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Main(19)",
+            "request": "launch",
+            "mainClass": "Capitulo10.E18.Main",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "BuscadorSinonimos",
+            "request": "launch",
+            "mainClass": "Capitulo10.E19.BuscadorSinonimos",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "BuscadorSinonimosMejorado",
+            "request": "launch",
+            "mainClass": "Capitulo10.E20.BuscadorSinonimosMejorado",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "AmigosDeLosAnfibios",
+            "request": "launch",
+            "mainClass": "Capitulo10.E21.AmigosDeLosAnfibios",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Main(20)",
+            "request": "launch",
+            "mainClass": "Capitulo10.E22.Main",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "CapturasAjedrez",
+            "request": "launch",
+            "mainClass": "Capitulo10.E23.CapturasAjedrez",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio01(3)",
+            "request": "launch",
+            "mainClass": "Capitulo10.Ejercicio01",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio02(2)",
+            "request": "launch",
+            "mainClass": "Capitulo10.Ejercicio02",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio03(1)",
+            "request": "launch",
+            "mainClass": "Capitulo10.Ejercicio03",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio04(2)",
+            "request": "launch",
+            "mainClass": "Capitulo10.Ejercicio04",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio06(1)",
+            "request": "launch",
+            "mainClass": "Capitulo10.Ejercicio06",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "JuntarFicheros",
+            "request": "launch",
+            "mainClass": "Capitulo11.E03.JuntarFicheros",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1",
+            "windows": {
+                "args": [
+                    "primos.txt",
+                    "noPrimo.txt"
+                ]
+            }
+        },
+        {
+            "type": "java",
+            "name": "Cap0702Ej09",
+            "request": "launch",
+            "mainClass": "Test.Cap0702Ej09",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "OrdenamientoPorSeleccion",
+            "request": "launch",
+            "mainClass": "Test.OrdenamientoPorSeleccion",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "PruebaArregloNumerosAleatorio",
+            "request": "launch",
+            "mainClass": "Test.PruebaArregloNumerosAleatorio",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "PruebaFunciones",
+            "request": "launch",
+            "mainClass": "Test.PruebaFunciones",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        },
+        {
+            "type": "java",
+            "name": "PruebaOrdenamientoArray",
+            "request": "launch",
+            "mainClass": "Test.PruebaOrdenamientoArray",
+            "projectName": "AprendeJavaConEjercicios_b8c0cfa1"
+        }
+    ]
+}
